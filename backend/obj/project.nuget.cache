@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNGuup4gRDk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abrag\\OneDrive\\Документы\\GitHub\\web3_asp_react\\backend\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abrag\\.nuget\\packages\\adraffy.ensnormalize\\0.3.1\\adraffy.ensnormalize.0.3.1.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nbitcoin.secp256k1\\3.1.1\\nbitcoin.secp256k1.3.1.1.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.abi\\5.8.0\\nethereum.abi.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.accounts\\5.8.0\\nethereum.accounts.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.blockchainprocessing\\5.8.0\\nethereum.blockchainprocessing.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.contracts\\5.8.0\\nethereum.contracts.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.hex\\5.8.0\\nethereum.hex.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.jsonrpc.client\\5.8.0\\nethereum.jsonrpc.client.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.jsonrpc.rpcclient\\5.8.0\\nethereum.jsonrpc.rpcclient.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.keystore\\5.8.0\\nethereum.keystore.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.merkle.patricia\\5.8.0\\nethereum.merkle.patricia.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.model\\5.8.0\\nethereum.model.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.rlp\\5.8.0\\nethereum.rlp.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.rpc\\5.8.0\\nethereum.rpc.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.signer\\5.8.0\\nethereum.signer.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.signer.eip712\\5.8.0\\nethereum.signer.eip712.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.util\\5.8.0\\nethereum.util.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.util.rest\\5.8.0\\nethereum.util.rest.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\nethereum.web3\\5.8.0\\nethereum.web3.5.8.0.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.4\\swashbuckle.aspnetcore.10.1.4.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.4\\swashbuckle.aspnetcore.swagger.10.1.4.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.4\\swashbuckle.aspnetcore.swaggergen.10.1.4.nupkg.sha512",
+    "C:\\Users\\abrag\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.4\\swashbuckle.aspnetcore.swaggerui.10.1.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Newtonsoft.Json' 11.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "C:\\Users\\abrag\\OneDrive\\Документы\\GitHub\\web3_asp_react\\backend\\WebApplication1.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\abrag\\OneDrive\\Документы\\GitHub\\web3_asp_react\\backend\\WebApplication1.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
